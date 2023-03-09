@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>hi this is my website</h1>
+      <h1>hi this is my website for testing smtp</h1>
     </div>
   );
 }
